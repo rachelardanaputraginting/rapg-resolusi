@@ -1,4 +1,6 @@
 RAPG Resolusi
-- Konsisten untuk belajar programing
+- Konsisten untuk belajar programming
 - Belajar Laravel
-- Membuat channel youtube programing
+- Membuat channel youtube programming
+- Ikut LKS SMK 2021
+- Berkenalan dengan banyak programmer
